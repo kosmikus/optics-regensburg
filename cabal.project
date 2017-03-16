@@ -1,0 +1,2 @@
+packages:
+  ../well-typed/optics/*/*.cabal, .
